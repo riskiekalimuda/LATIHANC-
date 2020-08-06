@@ -2,3 +2,9 @@ D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaKendaraan\bin\Debug\PustakaKendara
 D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaKendaraan\bin\Debug\PustakaKendaraan.pdb
 D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaKendaraan\obj\Debug\PustakaKendaraan.dll
 D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaKendaraan\obj\Debug\PustakaKendaraan.pdb
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\PustakaKendaraan\bin\Debug\PustakaKendaraan.dll
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\PustakaKendaraan\bin\Debug\PustakaKendaraan.pdb
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\PustakaKendaraan\bin\Debug\PustakaAntarMuka.dll
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\PustakaKendaraan\bin\Debug\PustakaAntarMuka.pdb
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\PustakaKendaraan\obj\Debug\PustakaKendaraan.dll
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\PustakaKendaraan\obj\Debug\PustakaKendaraan.pdb

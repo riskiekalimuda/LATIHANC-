@@ -1,0 +1,4 @@
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaAktor\bin\Debug\PustakaAktor.dll
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaAktor\bin\Debug\PustakaAktor.pdb
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaAktor\obj\Debug\PustakaAktor.dll
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaAktor\obj\Debug\PustakaAktor.pdb

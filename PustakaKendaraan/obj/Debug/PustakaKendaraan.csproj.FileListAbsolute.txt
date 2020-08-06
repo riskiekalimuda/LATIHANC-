@@ -1,0 +1,4 @@
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaKendaraan\bin\Debug\PustakaKendaraan.dll
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaKendaraan\bin\Debug\PustakaKendaraan.pdb
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaKendaraan\obj\Debug\PustakaKendaraan.dll
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaKendaraan\obj\Debug\PustakaKendaraan.pdb

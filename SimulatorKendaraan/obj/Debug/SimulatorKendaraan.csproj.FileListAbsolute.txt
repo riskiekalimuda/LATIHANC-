@@ -1,0 +1,6 @@
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\SimulatorKendaraan\bin\Debug\SimulatorKendaraan.exe.config
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\SimulatorKendaraan\bin\Debug\SimulatorKendaraan.exe
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\SimulatorKendaraan\bin\Debug\SimulatorKendaraan.pdb
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\SimulatorKendaraan\obj\Debug\SimulatorKendaraan.csprojResolveAssemblyReference.cache
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\SimulatorKendaraan\obj\Debug\SimulatorKendaraan.exe
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\SimulatorKendaraan\obj\Debug\SimulatorKendaraan.pdb

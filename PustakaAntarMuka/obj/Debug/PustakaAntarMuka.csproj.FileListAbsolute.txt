@@ -1,0 +1,4 @@
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaAntarMuka\bin\Debug\PustakaAntarMuka.dll
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaAntarMuka\bin\Debug\PustakaAntarMuka.pdb
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaAntarMuka\obj\Debug\PustakaAntarMuka.dll
+D:\PROJECT_WEB\LATIHAN\LATIHAN-C-SHARP\PustakaAntarMuka\obj\Debug\PustakaAntarMuka.pdb

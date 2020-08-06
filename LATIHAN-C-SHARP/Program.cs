@@ -1,6 +1,6 @@
-﻿using LATIHAN_C_SHARP.BELAJAR_GENERIC;
-using LATIHAN_C_SHARP.BELAJAR_PEWARISAN;
-using LATIHAN_C_SHARP.OOP;
+﻿using PustakaAktor;
+using PustakaAntarMuka;
+using PustakaKendaraan;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,12 +15,11 @@ namespace LATIHAN_C_SHARP
     {
         static void Main(string[] args)
         {
-            ToDoList<String> newList = new ToDoList<String>();
-            newList.AddToList("Riskie");
-            newList.AddToList("Belanja");
-            newList.AddToList("Babi");
-            newList.DeleteList("Babi");
-            newList.PrintAll();
+            IKendaraan mobil = new Mobil();
+            IKendaraan motor = new Motor();
+            Pengemudi pengemudi = new Pengemudi();
+            pengemudi.Mengemudi(mobil);
+            pengemudi.Mengemudi(motor);
         }
     }
 }

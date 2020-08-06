@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PustakaAktor", "PustakaAkto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PustakaKendaraan", "PustakaKendaraan\PustakaKendaraan.csproj", "{228B8A93-2DF3-48B9-B0FE-25594E9E79D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassFactory", "ClassFactory\ClassFactory.csproj", "{CA3DB5F2-FC9F-4E04-9D70-ED70579282C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{228B8A93-2DF3-48B9-B0FE-25594E9E79D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{228B8A93-2DF3-48B9-B0FE-25594E9E79D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{228B8A93-2DF3-48B9-B0FE-25594E9E79D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA3DB5F2-FC9F-4E04-9D70-ED70579282C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3DB5F2-FC9F-4E04-9D70-ED70579282C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3DB5F2-FC9F-4E04-9D70-ED70579282C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3DB5F2-FC9F-4E04-9D70-ED70579282C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

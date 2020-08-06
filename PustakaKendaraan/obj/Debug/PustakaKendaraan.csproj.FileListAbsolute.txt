@@ -8,3 +8,4 @@ D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\PustakaKendaraan\bin\Debug\Pusta
 D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\PustakaKendaraan\bin\Debug\PustakaAntarMuka.pdb
 D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\PustakaKendaraan\obj\Debug\PustakaKendaraan.dll
 D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\PustakaKendaraan\obj\Debug\PustakaKendaraan.pdb
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\PustakaKendaraan\obj\Debug\PustakaKendaraan.csprojResolveAssemblyReference.cache

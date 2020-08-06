@@ -68,7 +68,24 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\PustakaAktor\PustakaAktor.csproj">
+      <Project>{5295950b-f7f8-4271-bdb4-cbf29b5c3338}</Project>
+      <Name>PustakaAktor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PustakaAntarMuka\PustakaAntarMuka.csproj">
+      <Project>{0273e996-6095-4791-8c1d-a0725e3d09ba}</Project>
+      <Name>PustakaAntarMuka</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PustakaKendaraan\PustakaKendaraan.csproj">
+      <Project>{228b8a93-2df3-48b9-b0fe-25594e9e79d1}</Project>
+      <Name>PustakaKendaraan</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SimulatorKendaraan\SimulatorKendaraan.csproj">
+      <Project>{f3faf166-fab9-40a4-9297-ec78c571719e}</Project>
+      <Name>SimulatorKendaraan</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

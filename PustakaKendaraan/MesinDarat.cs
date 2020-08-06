@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace PustakaKendaraan
 {
-    public class MesinDarat : Mesin
+    internal class MesinDarat : Mesin
     {
-        public override void Hidupkan()
+        internal override void Hidupkan()
         {
             Console.WriteLine("Menghidupkan mesin darat");
         }
 
-        public override void Matikan()
+        internal override void Matikan()
         {
             Console.WriteLine("Mematikan mesin darat");
         }

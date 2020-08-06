@@ -1,0 +1,11 @@
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\ClassFactory\bin\Debug\ClassFactory.dll
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\ClassFactory\bin\Debug\ClassFactory.pdb
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\ClassFactory\bin\Debug\PustakaAktor.dll
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\ClassFactory\bin\Debug\PustakaAntarMuka.dll
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\ClassFactory\bin\Debug\PustakaKendaraan.dll
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\ClassFactory\bin\Debug\PustakaAktor.pdb
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\ClassFactory\bin\Debug\PustakaAntarMuka.pdb
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\ClassFactory\bin\Debug\PustakaKendaraan.pdb
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\ClassFactory\obj\Debug\ClassFactory.csprojResolveAssemblyReference.cache
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\ClassFactory\obj\Debug\ClassFactory.dll
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LATIHANC-\ClassFactory\obj\Debug\ClassFactory.pdb

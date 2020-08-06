@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace PustakaKendaraan
 {
-    public abstract class Mesin
+    internal abstract class Mesin
     {
-        public abstract void Hidupkan();
-        public abstract void Matikan();
-        public void Picu(string pemicu)
+        internal abstract void Hidupkan();
+        internal abstract void Matikan();
+        internal void Picu(string pemicu)
         {
             Console.WriteLine(pemicu);
         }
